@@ -1,0 +1,21 @@
+.listView-item {
+    display: flex;
+    text-align: center;
+    background-color: #F8F8F8;
+    margin: 16px 8px;
+    box-shadow: 0 0px 5px grey;
+}
+
+.listView-p {
+    font-size: 50px;
+    color: #404143;
+    font-family: Segoe UI;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.flex-2 {
+    flex: 2;
+}
